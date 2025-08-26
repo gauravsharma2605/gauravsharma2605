@@ -1,30 +1,107 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">Passionate Data Analyst from India, transforming raw data into meaningful insights.</h3>
+<h3 align="center">🚀 Passionate Data Analyst from India | Turning raw data into meaningful insights 📊</h3>
 
-<img align=“right” alt=coding“ width=“400”src=“68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966”>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsharma2605&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsharma2605" /> </p>
-
-- 🔭 I’m currently working on **R, RStudio, Business Analytics with Excel, and MySQ**
-
-- 🌱 I’m currently learning **Data Analytics with R, RStudio, Business Analytics using Excel, MySQL, and Tableau for visualization**
-
-- 📫 How to reach me **Gauravs.sharma26@gmail.com or www.linkedin.com/in/gauravs26**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gaurav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaurav26" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauravs26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:Gauravs.sharma26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gauravsharma2605&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsharma2605&show_icons=true&locale=en&layout=compact" alt="gauravsharma2605" /></p>
+## 👨‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsharma2605&show_icons=true&locale=en" alt="gauravsharma2605" /></p>
+- 🔭 I’m currently working on **R, RStudio, Business Analytics with Excel, and MySQL**  
+- 🌱 I’m exploring and learning **Data Analytics with R, Business Analytics using Excel, SQL for data management, and Tableau for visualization**  
+- 📫 You can reach me at **Gauravs.sharma26@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/gauravs26)**  
+- 🎯 My focus is on turning **raw data into meaningful business insights**  
+- 💡 Passionate about **solving business problems with data-driven decisions**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsharma2605&" alt="gauravsharma2605" /></p>
+---
 
+## 🧭 Quick Links  
+- 🔗 **Portfolio/Projects:** *(add link when ready)*  
+- 📄 **Resume:** *(add drive link or PDF when ready)*  
+- 💬 **Ask me about:** R, SQL, Excel analytics, dashboards, EDA, data cleaning  
 
+---
 
+## 🛠️ Languages & Tools  
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  </a>
+</p>
 
+---
+
+## 🚀 Featured Projects  
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [📊 Sales Dashboard](#) | Power BI | Interactive dashboard to track KPIs, revenue trends & customer insights |
+| [📈 Customer Segmentation](#) | R, SQL | Cluster analysis for targeted marketing strategies |
+| [🗄️ Data Cleaning with SQL](#) | MySQL | Cleaned messy data & built queries for structured reporting |
+
+---
+
+## 🏆 Certifications  
+- 🎓 **Master’s Program in Data Analyst – Simplilearn**  
+- 🏅 **IBM Certified: Data Visualization with Python**  
+- 🐍 **Python 101 for Data Science – Simplilearn**  
+- 🗄️ **SQL Certification – Simplilearn**  
+- 📊 **R for Data Science – IBM**  
+- 📑 **Business Analytics with Excel – Simplilearn**  
+
+---
+
+## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsharma2605&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsharma2605&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsharma2605&" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravsharma2605&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏅 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravsharma2605&theme=darkhub&row=1&column=6" />
+</p>
+
+---
+
+## 🎯 Fun Fact  
+When I’m not analyzing data, you’ll find me exploring new places 🌍 or reading books 📚.  
