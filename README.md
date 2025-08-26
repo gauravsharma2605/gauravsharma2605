@@ -22,12 +22,6 @@
 - 🎯 My focus is on turning **raw data into meaningful business insights**  
 - 💡 Passionate about **solving business problems with data-driven decisions**  
 
----
-
-## 🧭 Quick Links  
-- 🔗 **Portfolio/Projects:** *(add link when ready)*  
-- 📄 **Resume:** *(add drive link or PDF when ready)*  
-- 💬 **Ask me about:** R, SQL, Excel analytics, dashboards, EDA, data cleaning  
 
 ---
 
