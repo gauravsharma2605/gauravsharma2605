@@ -1,59 +1,31 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
+<h3 align="center">Passionate Data Analyst from India, transforming raw data into meaningful insights.</h3>
 
-###
+<img align=“right” alt=coding“ width=“400”” src=“<img src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" alt="Programmer at dual monitors">
 
-<div align="center">
-  <a href="www.linkedin.com/in/gauravs26" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsharma2605&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsharma2605" /> </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gauravsharma2605.gauravsharma2605&"  />
-</div>
+- 🔭 I’m currently working on **R, RStudio, Business Analytics with Excel, and MySQ**
 
-###
+- 🌱 I’m currently learning **Data Analytics with R, RStudio, Business Analytics using Excel, MySQL, and Tableau for visualization**
 
-<h1 align="center">hey there 👋</h1>
+- 📫 How to reach me **Gauravs.sharma26@gmail.com or www.linkedin.com/in/gauravs26**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/gaurav26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaurav26" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsharma2605&show_icons=true&locale=en&layout=compact" alt="gauravsharma2605" /></p>
 
-<p align="left">I’m Gaurav Sharma<br>I’m from New Delhi,India<br>🔭 I’m building projects in R, Excel, and SQL to strengthen my business analytics and data visualization skills<br>📚 I’m currently learning advanced R techniques, MySQL, and Business Analytics concepts<br>💡 I’ve completed projects on RStudio (EDA & visualization), Business Analytics with Excel, and MySQL (data queries & reporting)<br>⚡ In my free time I explore datasets, learn new tools, and practice analytics problem-solving</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsharma2605&show_icons=true&locale=en" alt="gauravsharma2605" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsharma2605&" alt="gauravsharma2605" /></p>
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-</div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravsharma2605&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
