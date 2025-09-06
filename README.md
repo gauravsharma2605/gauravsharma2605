@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
-<h3 align="center">🚀 Passionate Data Analyst from India | Turning raw data into meaningful insights 📊</h3>
+<h3 align="center">📊 Data Analyst | SQL • Python • R • Tableau • Power BI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauravs26" target="_blank">
@@ -16,12 +16,11 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 I’m currently working on **R, RStudio, Business Analytics with Excel, and MySQL**  
-- 🌱 I’m exploring and learning **Data Analytics with R, Business Analytics using Excel, SQL for data management, and Tableau for visualization**  
-- 📫 You can reach me at **Gauravs.sharma26@gmail.com** or connect on **[LinkedIn](https://www.linkedin.com/in/gauravs26)**  
-- 🎯 My focus is on turning **raw data into meaningful business insights**  
-- 💡 Passionate about **solving business problems with data-driven decisions**  
-
+- 🔭 Currently working with **R, SQL, Excel & Tableau**  
+- 🌱 Exploring **Predictive Analytics & Machine Learning**  
+- 🎯 Focus: Turning **raw data into actionable insights**  
+- 💡 Passionate about **data visualization & solving business problems**  
+- 📫 Reach me at **Gauravs.sharma26@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/gauravs26)  
 
 ---
 
@@ -63,25 +62,21 @@
 ---
 
 ## 🏆 Certifications  
-- 🎓 **Master’s Program in Data Analyst – Simplilearn**  
-- 🏅 **IBM Certified: Data Visualization with Python**  
-- 🐍 **Python 101 for Data Science – Simplilearn**  
-- 🗄️ **SQL Certification – Simplilearn**  
-- 📊 **R for Data Science – IBM**  
-- 📑 **Business Analytics with Excel – Simplilearn**  
+- 🎓 **Master’s Program in Data Analytics – Simplilearn (with Purdue & IBM, Ongoing)**  
+- 📊 **Business Analytics with Excel – IBM**  
+- 🐍 **Python 101 for Data Science – IBM**  
+- 🏅 **Data Visualization with Python – IBM**  
+- 📑 **R Programming for Data Science – IBM**  
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsharma2605&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsharma2605&show_icons=true&locale=en" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsharma2605&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravsharma2605&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsharma2605&" alt="GitHub Streak" />
 </p>
 
