@@ -53,11 +53,12 @@
 ---
 
 ## 🚀 Featured Projects  
+
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [📊 Sales Dashboard](#) | Power BI | Interactive dashboard to track KPIs, revenue trends & customer insights |
-| [📈 Customer Segmentation](#) | R, SQL | Cluster analysis for targeted marketing strategies |
-| [🗄️ Data Cleaning with SQL](#) | MySQL | Cleaned messy data & built queries for structured reporting |
+| [✈️ Flight Delay Analysis](https://github.com/gauravsharma2605) | R | EDA on flight delay dataset – visualized weather, distance & schedule impacts |
+| [📊 Deloitte Data Analytics Simulation](https://github.com/gauravsharma2605) | Tableau, Excel | Built dashboards & reports for forensic technology cases |
+| [🤖 Tata Group Data Analytics Simulation](https://github.com/gauravsharma2605) | Python, GenAI | Predictive modeling framework & AI-driven risk analysis |
 
 ---
 
